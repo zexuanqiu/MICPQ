@@ -1,6 +1,6 @@
 # MICPQ
 
-A Pytorch implementation of paper "**Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization **" (EMNLP 2022).
+A Pytorch implementation of paper "Efficient Document Retrieval by End-to-End Refining and Quantizing BERT Embedding with Contrastive Product Quantization"(EMNLP 2022).
 
 ### Main Dependencies
 
